@@ -4,7 +4,7 @@
 Student Assistant AI Agent
 
 ## AI Tool Used
-ChatGPT
+GoogleCopilot
 
 ## Purpose of AI Assistance
 AI was used to generate an initial structure for the basic student assistant agent and suggest the response logic.
